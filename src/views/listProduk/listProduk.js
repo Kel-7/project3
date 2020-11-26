@@ -10,7 +10,7 @@ import {
 
 import listProdukDummy from './dataDummy/listProdukDummy';
 
-const fields = ['no', 'No Transaksi', 'Nama Produk']
+const fields = ['no', 'Tanggal Transaksi', 'Nama Produk']
 
 const listProduk = () => {
     return(
